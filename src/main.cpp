@@ -39,13 +39,8 @@ void load() {
 
 int startGame() {
     int command;
-    vector<string> menuOptions;
     
-    menuOptions.push_back("New Game");
-    menuOptions.push_back("Load Game");
-    menuOptions.push_back("Etc");
-    
-    command = Dialogue("Main Menu", menuOptions).activate();
+    command = Dialogue("Main Menu", {"New Game", "Load Game", "Etc"}).activate();
     
     switch (command) {
         case 1: // New Game
