@@ -1,12 +1,23 @@
-Name????
+
+HardCore is a text-based RPG
+
+Description
+
 
 
 Story
-	get 4 seals/keys to unlock tower
-	climb tower
+
+
 
 Characters
-	Ashen - goddess?
+
+	Ashen				Etrix
+	Ralios				Zeena
+	Aznus				Luasis
+	Tydis				Itia/Etia
+	Detos				Eptris
+	Zuros				Zenja
+					
 
 
 
