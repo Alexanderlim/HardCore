@@ -21,6 +21,8 @@ class Creature
     unsigned int level;
     unsigned int exp;
 
+public:
+    
     Creature(string nm, int hp, int s, int e, int d,
              unsigned int lvl = 1, unsigned int xp = 0, string className = "")
     {

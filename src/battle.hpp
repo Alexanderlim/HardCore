@@ -14,6 +14,8 @@ class Battle
     Dialogue dialogue;
     
     Creature* creatures[2];
+
+public:
     
     Battle() {}
     

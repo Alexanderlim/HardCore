@@ -13,27 +13,21 @@
 
 using namespace std;
 
-// Creature player;
+Creature player;
 
 
 Dialogue dialogue;
 vector<string> choices;
 
 void save() {
-    ofstream fout ("test");
-    
-    fout << 1 << 2 << "test" << endl;
+    ofstream fout ("FILE NAME");
     
     cout << "Save Successful" << endl;
 }
 
 void load() {
-    ifstream fin ("test");
+    ifstream fin ("FILE NAME");
 
-    int a, b;
-    fin >> a >> b;
-    cerr << a << b << endl;
-    
     cout << "Load Successful" << endl;
 }
 
