@@ -1,4 +1,3 @@
-
 HardCore is a text-based RPG
 
 Description
@@ -21,4 +20,8 @@ Characters
 
 
 
-
+Status effects 
+	Cancer				High
+	Downs				Drunk
+	Slow				Louis
+	Stun				Suicide
