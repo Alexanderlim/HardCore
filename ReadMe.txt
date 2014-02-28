@@ -1,6 +1,9 @@
 
 HardCore is a text-based RPG
 
+There is only one save/load file.
+Once your character dies, the data is deleted.
+
 Description
 
 
