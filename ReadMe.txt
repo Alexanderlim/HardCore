@@ -1,4 +1,3 @@
-
 HardCore is a text-based RPG
 
 There is only one save/load file.
@@ -22,6 +21,9 @@ Characters
 	Zuros				Zenja
 					
 
-
+Status effects
+Cancer
+downs
+Louis
 
 
